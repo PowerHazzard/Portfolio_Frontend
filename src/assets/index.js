@@ -92,7 +92,6 @@ import Jayway from "./company/jayway.png";
 import Codemill from "./company/codemill.png";
 import Reducto from "./company/reducto.png";
 
-import moreton from "./project/moreton.png";
 import jobit from "./project/jobit.png";
 import tripguide from "./project/tripguide.png";
 import christmas_decor from "./project/Christmas decor.png";
@@ -136,7 +135,6 @@ export {
   shopify,
   starbucks,
   tesla,
-  moreton,
   jobit,
   tripguide,
   agile,

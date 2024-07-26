@@ -97,7 +97,6 @@ import {
   NextUI,
   Jayway,
   Codemill,
-  moreton,
   Reducto,
 } from "../assets";
 
